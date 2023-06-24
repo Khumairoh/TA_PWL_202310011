@@ -1,0 +1,45 @@
+/* .text{ 
+    margin-top: 20%; 
+} */ 
+ 
+.pukus{ 
+    width: 82vw;
+    height: 20vh; 
+    margin-left: 1px; 
+    position: static; 
+} 
+ 
+.bgHome{ 
+margin-left: -10px; 
+width: 120.9%; 
+}
+
+.mau{
+    margin-top: -43%;
+    text-align: center;
+    margin-left: 15%;
+    color: white;
+    font-family: 'Georgia';
+    font-weight: 800;
+}
+
+.input-group{
+    margin-top: 5%;
+    margin-left: 46%;
+}
+
+.lgo{
+    margin-top: 0%;
+    height: 5%;
+    width: 5%;
+}
+
+.form-outline{
+    margin-left: 4%;
+    margin-right: 4%;  
+}
+
+.form-control{
+    margin-top: 50%;
+    margin-left: 10%;
+}
