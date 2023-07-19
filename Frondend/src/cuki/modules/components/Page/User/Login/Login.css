@@ -1,0 +1,73 @@
+/* style.css */
+
+.akun {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .akun-user {
+    width: 400px;
+    padding: 30px;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+  }
+  
+  .login {
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 24px;
+  }
+  
+  .isil .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    margin-bottom: 5px;
+    display: block;
+    font-weight: bold;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    margin-top: 10px;
+    margin-left: 5px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .pindah {
+    text-align: right;
+    margin-top: 5px;
+  }
+  
+  .gak-punya-akun {
+    margin-bottom: 0;
+  }
+  
+  .msk {
+    padding: 5px 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+  }
+  
+  .sbt {
+    width: 100%;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+  }
+  
+  .sbt:disabled {
+    background-color: #999;
+    cursor: not-allowed;
+  }
